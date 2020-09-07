@@ -1,6 +1,6 @@
-# Project 0
+# Books 
 
-Web Programming with Python and JavaScript
+Web Programming with Javascript
 
 => The project comprises of a website containing 4 pages.
 
